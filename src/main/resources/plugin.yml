@@ -1,0 +1,5 @@
+name: EssentialCore
+version: '${project.version}'
+main: org.techarts.essentialcore.EssentialCore
+api-version: 1.19
+authors: [TechArts Development]
